@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Node (als je ooit tooling toevoegt)
+node_modules/
+
+# Composer dev cache (vendor zelf committen voor releases)
+.php-cs-fixer.cache
